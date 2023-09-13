@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-04T08:50:09 EEST" name="Default suite" finished-at="2023-09-04T08:50:09 EEST" duration-ms="50">
+    <groups>
+    </groups>
+    <test started-at="2023-09-04T08:50:09 EEST" name="Default test" finished-at="2023-09-04T08:50:09 EEST" duration-ms="50">
+      <class name="com.videoslots.tasks.TaskOneTest">
+        <test-method signature="test1TaskOne()[pri:0, instance:com.videoslots.tasks.TaskOneTest@52102734]" started-at="2023-09-04T08:50:09 EEST" name="test1TaskOne" finished-at="2023-09-04T08:50:09 EEST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1TaskOne -->
+        <test-method signature="test2TaskOne()[pri:0, instance:com.videoslots.tasks.TaskOneTest@52102734]" started-at="2023-09-04T08:50:09 EEST" name="test2TaskOne" finished-at="2023-09-04T08:50:09 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2TaskOne -->
+        <test-method signature="test3TaskOne()[pri:0, instance:com.videoslots.tasks.TaskOneTest@52102734]" started-at="2023-09-04T08:50:09 EEST" name="test3TaskOne" finished-at="2023-09-04T08:50:09 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3TaskOne -->
+        <test-method signature="test4TaskOne()[pri:0, instance:com.videoslots.tasks.TaskOneTest@52102734]" started-at="2023-09-04T08:50:09 EEST" name="test4TaskOne" finished-at="2023-09-04T08:50:09 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4TaskOne -->
+        <test-method signature="test5TaskOne()[pri:0, instance:com.videoslots.tasks.TaskOneTest@52102734]" started-at="2023-09-04T08:50:09 EEST" name="test5TaskOne" finished-at="2023-09-04T08:50:09 EEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5TaskOne -->
+      </class> <!-- com.videoslots.tasks.TaskOneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
